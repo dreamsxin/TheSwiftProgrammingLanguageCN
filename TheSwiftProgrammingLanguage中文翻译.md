@@ -5,7 +5,7 @@ TheSwiftProgrammingLanguage中文手册
 
 # 目录
 
-## Welcome to Swift
+## [Welcome to Swift](#欢迎来到Swift)
 
 -  [About Swift]()
 -  [A Swift Tour]()
@@ -48,3 +48,7 @@ TheSwiftProgrammingLanguage中文手册
 -  [Patterns]()
 -  [Generic Parameters and Arguments]()
 -  [Summary of the Grammar]()
+
+=====================================================
+
+#欢迎来到Swift
